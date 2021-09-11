@@ -1,6 +1,7 @@
 <h1>~~~📍📍📍📍📍🙌🙌This is a React💛 Project where we see the live detail tracking⚠️⚠️ status of Covid-19	☢️	☢️	☢️	☢️	☢️	☢️ all over the world🌎🌎🌎📍📍📍📍~~~</h1>
 
 <h2>✅✅✅✅Live Dataset and Api⚕️⚕️⚕️::"https://disease.sh/"</h2>
+<h1>check it out:https://covid-7a548.web.app</h1>
 
 <h2>🔰🔰🔰🔰Install all dependencies📂📂 <h2>
   <br>
